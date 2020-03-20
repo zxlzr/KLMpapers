@@ -1,6 +1,6 @@
 # Knowledge-enhanced Pretrained Language Model Papers
 
-Contributed by **Chuanzhi Zhuang**  and **[Ningyu Zhang](zxlzr.github.io)**.
+Contributed by **Chuanzhi Zhuang**  and **[Ningyu Zhang](https://zxlzr.github.io/)**.
  
 
  
